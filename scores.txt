@@ -1,0 +1,6 @@
+julie;4
+julie;4
+jenny;4
+diana;2
+julie;10
+julie;3

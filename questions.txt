@@ -1,0 +1,10 @@
+Quelle est la capitale du Cameroun ?;Yaoundé;Londres;Berlin;Rome
+Quel est l'actuel préseident des Etats-Unis ?;Joe Biden;Paul Biya;Allassan Ouattara;Ali Bongo
+Quelle est la formule chimique de l'eau ?;H2O;CO2;NaCl;O2
+Quelle est la la crypto-monnaie la plus précieuse au monde?;Bitcoin;les dollars;USD;Euro
+Quel est le pays qui a remporté la dernière coupe du monde de footbball?;Argentine; Brésil; France;Cameroun
+Quelle est la nation ayant eu la coupe d'afrique 2023?;Cote d'ivoire;Cameroun;Rwanda;Egypte;
+Quel romancier a récemment remporté le prix nobel de la littérature?;Annie Ernaux; Mont;Pit Baccardi;Leonardo Da vinci;Sergeo POlo
+Combien de côtés a un hexagone régulier?;6;4;5;7
+Quelle est la monnaie utilisée au Japon?; Yen; Euro;Dollar américain;Livre sterling
+Quel est l'océan le plus grand du monde?;Océan Pacifique;Océan Atlantique;Océan Indien;Océan Arctique
