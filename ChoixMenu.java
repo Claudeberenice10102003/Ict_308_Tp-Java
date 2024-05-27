@@ -9,12 +9,12 @@ public class ChoixMenu extends JFrame {
     private JLabel choixLabel;
 
     public ChoixMenu() {
-        setTitle("Hello world");
+        setTitle("Fonctions_admin");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLayout(new FlowLayout());
 
         // Création d'un tableau de choix
-        String[] choix = {"Choix 1", "Choix 2", "Choix 3"};
+        String[] choix = {"ouvrir ", "enregistrer", "synchroniser"};
 
         // Création du JComboBox avec les choix
         choixComboBox = new JComboBox<>(choix);
@@ -26,7 +26,7 @@ public class ChoixMenu extends JFrame {
         });
 
         // Création d'un JLabel pour afficher le choix sélectionné
-        choixLabel = new JLabel("Choix sélectionné : ");
+        choixLabel = new JLabel("Administrateur : ");
         
         // Ajout des composants à la fenêtre
         add(choixComboBox);
